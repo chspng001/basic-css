@@ -40,18 +40,14 @@ h2 {
 ol {
     list-style-type: decimal-leading-zero;
 }
-
 table, th, td {
   border: 2px solid black;
   border-collapse: collapse;
 
 }
-
 th {
 	background-color: lightgrey;
-	
 }
-
 td {
 	background-color: white;
 	padding-top: 10px;
@@ -59,7 +55,6 @@ td {
     padding-bottom: 10px;
     padding-left: 10px;
 }
-
 p a {
 	color: brown;
 }
